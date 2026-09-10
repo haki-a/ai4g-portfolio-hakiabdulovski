@@ -26,7 +26,7 @@ Students can go through short explanations and realistic examples, answer knowle
 
 ## Link to the live thing
 
-**Live website:** not finished yet
+**Live website:** https://thuas-international-p9es.bolt.host/
 
 **Demo:** not finished yet
 
