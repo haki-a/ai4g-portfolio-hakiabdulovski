@@ -28,25 +28,23 @@ Students can go through short explanations and realistic examples, answer knowle
 
 **Live website:** https://thuas-international-p9es.bolt.host/
 
-**Demo:** not finished yet
-
 ## How do I run it?
 
-Not finished yet.
+Visit the link: https://thuas-international-p9es.bolt.host/
 
 ## Who did what?
 
 ### Haki Abdulovski
 
-* [ADD YOUR CONTRIBUTIONS]
+* Prompt engineering
 
 ### Iqbal Tawakkal Sobari
 
-* [ADD PARTNER CONTRIBUTIONS]
+* Making the video
 
 **Shared work:**
 
-* [ADD SHARED TASKS, IF APPLICABLE]
+* Presentating
 
 ## Ethical reflection
 
