@@ -1,4 +1,4 @@
-# STUDYSTART
+# name to be decided
 
 **My pair partner:** Yassir Balah  
 **Tool we had to use:** N8N
