@@ -1,7 +1,9 @@
 # name to be decided
 
-**My pair partner:** Yassir Balah  
+**My pair partner:** Yassir Balah
+
 **Tool we had to use:** N8N
+
 **SDG we had to address:** SDG 3 - Good Health & Well-being
 
 ## What problem does it solve, and for whom?
